@@ -9,8 +9,8 @@ All the prerequisite procedure are stated in the code.
 Steps:
 1.Make sure haar cascade file is there in the folder containing processing code 
 2.Burn arduino codes(.INO) on the uno board.
-3.Open the processing code and follow the intructions mentioned in the .pde processing file.
-4.Calibrate the pan and tilt mechanism to point at centre.
-5.Make changes in //change here comment to increase the accuracy and more segmentation.
-6.Nominal step size is kept at value 5, but it can be changed to higher values for fast rotation of pan and tilt mechanism 
-7.Thats all folks, now try the code and pleasse feel free to make changes and also suggest some alternate routes.
+3.Open the processing code and follow the instructions mentioned in the .pde processing file.
+4.Calibrate the pan and tilt mechanism to point at centre position.
+5.Make changes in "//change here" comment to increase the accuracy and more segmentation.
+6.Nominal stepsize is kept at value 5, but it can be changed to higher values, for fast rotation of pan and tilt mechanism. 
+7.Thats all folks, now try the code and please feel free to make changes and also suggest some alternate routes.
