@@ -1,4 +1,4 @@
-tracking_targeting
+Tracking_Targeting
 ==================
 This project aims to track a face from the video feed and target that face using pan andd tilt gun mechanism.
 An integrated camera of latop serves as the primary camera for video feed.
@@ -35,11 +35,13 @@ On top of the 84-tooth gear, build a simple U-shaped bracket out of the VEX meta
 
 Interfacing Arduino and Processing
 --------------------------------
-Interfacing Arduino and Processing
+
  ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart1.png)
  
- Processing and Face Tracking
+Processing and Face Tracking
+-------------------------------
  ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart2.png)
- Interfacing the system
+Interfacing the system
+------------------------
  ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart3.png)
 
