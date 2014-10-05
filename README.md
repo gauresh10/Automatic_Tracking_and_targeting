@@ -34,4 +34,12 @@ On top of the 84-tooth gear, build a simple U-shaped bracket out of the VEX meta
 
 
 Interfacing Arduino and Processing
+--------------------------------
+Interfacing Arduino and Processing
+ ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart1.png)
+ 
+ Processing and Face Tracking
+ ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart2.png)
+ Interfacing the system
+ ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart3.png)
 
