@@ -2,8 +2,8 @@ Tracking_Targeting
 ==================
 This project aims to track a face from the video feed and target that face using pan andd tilt gun mechanism.
 An integrated camera of latop serves as the primary camera for video feed.
-The target(FACE) must be in the range of 0.5m to 4m away from camera.
-All the prerequisite procedure are stated in the code.
+The target(FACE) must be in the range of 0.5m to 4m
+All the prerequisite procedure are mentioned in the code.
 
 
 Steps:
