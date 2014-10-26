@@ -45,3 +45,9 @@ Interfacing the system
 ------------------------
  ![image](https://github.com/gauresh10/tracking_targeting/blob/master/images/flowchart3.png)
 
+---------------------
+Work contributed by
+1.Gauresh Vanjare
+2.Dhairya Thakkar
+3.Malay Shah
+4.Amit kadam
