@@ -1,5 +1,5 @@
 /*
-Work contributed by gauresh vanjare
+
 connect arduino at any port of pc.
 install open cv new version
 put haarcascade_frontalface_alt.xml in the processing code folder
